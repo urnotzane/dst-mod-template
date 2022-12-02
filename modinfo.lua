@@ -10,6 +10,8 @@ icon = "modicon.tex"
 
 -- 是否是客户端模组
 client_only_mod = false
+-- 是否是所有客户端都需要安装
+all_clients_require_mod = true
 -- 是否兼容单机版
 dont_starve_compatible = false
 -- 是否兼容巨人
